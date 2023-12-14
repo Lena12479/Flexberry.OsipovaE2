@@ -1,0 +1,1 @@
+docker-compose -p osipovae2 up -d

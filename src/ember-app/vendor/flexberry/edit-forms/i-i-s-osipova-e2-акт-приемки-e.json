@@ -1,0 +1,47 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Поставщики",
+      "projection": "ПоставщикиL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    },
+    {
+      "master": "номенклатура",
+      "displayAttributeName": "материал",
+      "required": true,
+      "relationName": "Материал.Номенклатура",
+      "projection": "НоменклатураL",
+      "detailModelName": "i-i-s-osipova-e2-материал"
+    },
+    {
+      "master": "склад",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "Материал.Склад",
+      "projection": "СкладL",
+      "detailModelName": "i-i-s-osipova-e2-материал"
+    }
+  ],
+  "external": false,
+  "caption": "Акт приемки",
+  "name": "IISOsipovaE2АктПриемкиE",
+  "className": "АктПриемкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-osipova-e2-акт-приемки",
+      "modelProjection": "АктПриемкиE"
+    }
+  ]
+}

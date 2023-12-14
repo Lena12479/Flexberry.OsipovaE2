@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-osipova-e2-номенклатура-e",
+  "editForm": "i-i-s-osipova-e2-номенклатура-e",
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IISOsipovaE2НоменклатураL",
+  "className": "НоменклатураL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-osipova-e2-номенклатура",
+      "modelProjection": "НоменклатураL"
+    }
+  ]
+}

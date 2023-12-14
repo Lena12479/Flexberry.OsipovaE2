@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-osipova-e2-акт-приемки-e",
+  "editForm": "i-i-s-osipova-e2-акт-приемки-e",
+  "external": false,
+  "caption": "Акт приемки",
+  "name": "IISOsipovaE2АктПриемкиL",
+  "className": "АктПриемкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-osipova-e2-акт-приемки",
+      "modelProjection": "АктПриемкиL"
+    }
+  ]
+}

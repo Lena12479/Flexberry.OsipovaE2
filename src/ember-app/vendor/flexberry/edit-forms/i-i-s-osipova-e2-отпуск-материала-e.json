@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Заказ",
+      "projection": "ЗаказL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Отпуск материала",
+  "name": "IISOsipovaE2ОтпускМатериалаE",
+  "className": "ОтпускМатериалаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-osipova-e2-отпуск-материала",
+      "modelProjection": "ОтпускМатериалаE"
+    }
+  ]
+}

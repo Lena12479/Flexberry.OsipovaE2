@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsipovaE2.Objects", "Objects/OsipovaE2.Objects.csproj", "{7FB89461-BDBC-4C57-89AB-81FF1E917E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsipovaE2.ODataBackend", "ODataBackend/OsipovaE2.ODataBackend.csproj", "{38F5FC6A-71BF-4C7B-8E3B-A753E3A90F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB89461-BDBC-4C57-89AB-81FF1E917E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB89461-BDBC-4C57-89AB-81FF1E917E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB89461-BDBC-4C57-89AB-81FF1E917E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB89461-BDBC-4C57-89AB-81FF1E917E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F5FC6A-71BF-4C7B-8E3B-A753E3A90F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F5FC6A-71BF-4C7B-8E3B-A753E3A90F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F5FC6A-71BF-4C7B-8E3B-A753E3A90F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F5FC6A-71BF-4C7B-8E3B-A753E3A90F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

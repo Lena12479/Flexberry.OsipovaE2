@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-osipova-e2-поставщики-e",
+  "editForm": "i-i-s-osipova-e2-поставщики-e",
+  "external": false,
+  "caption": "Поставщики",
+  "name": "IISOsipovaE2ПоставщикиL",
+  "className": "ПоставщикиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-osipova-e2-поставщики",
+      "modelProjection": "ПоставщикиL"
+    }
+  ]
+}
